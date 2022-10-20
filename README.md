@@ -6,7 +6,12 @@ I am from Bhilai , Chhattisgarh . I did my engineering from Bhilai Institute of 
 
 Skills: System Design / Git / AWS / MySQL / Github /  Web Scraping using Scrapy  /  Bootstrap 4 / HTML5  / CSS  / Linux / Javascript / Data Structure / Nginx / Flask / DOM / Jinja2 / Automation / TCP / IP networking / Backend Development / Cloud /  CI/CD /  API
 
-You can visit my Website - https://www.devashish.online
+- 🔭 I’m currently working on https://www.devashish.online 
+- 🌱 I’m currently learning Web Scraping / React.js 
+- 📫 How to reach me (LinkedIn): https://www.linkedin.com/in/devashish-singh-8b672b165/ 
+
+
+
 
 
 
